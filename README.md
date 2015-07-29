@@ -1,6 +1,10 @@
 Sample Ruby Script to generate Zipcodes from CSV for [Baker](http://www.trybaker.com)
 ---
 
+Dependencies: make sure you have ``Ruby >= 2.0`` and ``zip-codes gem``
+
+	gem install zip-codes
+	
 Assuming you have a list of csv in the following format
 
 	94116

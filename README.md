@@ -1,4 +1,4 @@
-Sample Ruby Script to generate Zipcodes from CSV for [Baker](http://www.trybaker.com)
+Sample Ruby Script to generate Location info from zipcodes csv [Baker](http://www.trybaker.com)
 ---
 
 Dependencies: make sure you have ``Ruby >= 2.0`` and ``zip-codes gem``
@@ -12,7 +12,7 @@ Assuming you have a list of csv in the following format
 
 The zipcodes should be the first item in the file.
 
-Specify the path of the file in the ``zip-codes.rb``
+Specify the path of the file in ``zip-codes.rb``
 
 Run,
 	

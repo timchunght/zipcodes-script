@@ -1,4 +1,4 @@
-Sample Ruby Script to generate Location info from zipcodes csv for my friends at [Baker](http://www.trybaker.com)
+Simple Ruby Script to generate Location info from zipcodes csv for my friends at [Baker](http://www.trybaker.com)
 ---
 
 They are doing a zipcode collection campaign at the moment during 500 Startups Batch 14! Good luck guys!
